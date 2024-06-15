@@ -1,2 +1,5 @@
 # ignore all environments
 */env
+
+# ignore generated files
+lab1/bills
