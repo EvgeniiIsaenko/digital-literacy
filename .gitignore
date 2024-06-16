@@ -2,4 +2,5 @@
 */env
 
 # ignore generated files
-lab1/bills
+lab1/bills/*
+lab2/template/*
