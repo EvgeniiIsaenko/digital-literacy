@@ -2,4 +2,9 @@
 */env
 
 # ignore generated files
-lab1/bills
+lab1/bills/*
+lab2/template/*
+lab3/invitations/*
+lab4/output/*
+lab5/template/*
+lab5/grades/*
