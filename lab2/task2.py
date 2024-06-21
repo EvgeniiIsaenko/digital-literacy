@@ -1,5 +1,4 @@
 # Лаба №2: Приглашение
-import os
 from docx import *
 from docx.shared import Cm, Inches
 
