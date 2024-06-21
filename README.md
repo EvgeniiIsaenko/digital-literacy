@@ -21,3 +21,7 @@ In the directory of lab4:
 python task4.py <input_file> <output_file> --delimiter (-d) " "
 ```
 If the delimeter is not specified it is taken as ";".
+
+## Lab5
+By using xlsxwriter parse a .csv file and format the data of students' grades from different groups.
+File to generate random students and grades is also present in lab5 folder.
